@@ -24,7 +24,7 @@ namespace LiteChatWebsite.Controllers
         {
             if (username != null && password != null && username.Equals("Ben") && password.Equals("123"))
             {
-                //HttpContext.Session.SetString("username", username);
+                HttpContext.Session.SetString("username", username);
                 return View("Success");
             }
             else
@@ -38,7 +38,7 @@ namespace LiteChatWebsite.Controllers
         [HttpGet]
         public IActionResult Logout()
         {
-            //HttpContext.Session.Remove("username");
+            HttpContext.Session.Remove("username");
             return RedirectToAction("Index");
         }
     }

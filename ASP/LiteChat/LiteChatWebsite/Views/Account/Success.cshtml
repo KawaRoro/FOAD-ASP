@@ -13,9 +13,10 @@
     <title>Lite Chat</title>
 </head>
 <body>
-
     <h3>Lite Chat</h3>
-
+    <br>
+    @Context.Session.GetString("username")
+    <br>
     <br>
     <a asp-controller="account" asp-action="logout">Logout</a>
 
