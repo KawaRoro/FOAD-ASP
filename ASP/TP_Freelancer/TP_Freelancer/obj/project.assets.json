@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\laragon\\www\\CDA\\FOAD-ASP\\FOAD-ASP\\ASP\\TP_Freelancer\\TP_Freelancer\\TP_Freelancer.csproj",
+      "projectUniqueName": "D:\\laragon\\www\\CDA\\FOAD-ASP\\FOAD-ASP\\FOAD-ASP\\ASP\\TP_Freelancer\\TP_Freelancer\\TP_Freelancer.csproj",
       "projectName": "TP_Freelancer",
-      "projectPath": "D:\\laragon\\www\\CDA\\FOAD-ASP\\FOAD-ASP\\ASP\\TP_Freelancer\\TP_Freelancer\\TP_Freelancer.csproj",
+      "projectPath": "D:\\laragon\\www\\CDA\\FOAD-ASP\\FOAD-ASP\\FOAD-ASP\\ASP\\TP_Freelancer\\TP_Freelancer\\TP_Freelancer.csproj",
       "packagesPath": "C:\\Users\\webma\\.nuget\\packages\\",
-      "outputPath": "D:\\laragon\\www\\CDA\\FOAD-ASP\\FOAD-ASP\\ASP\\TP_Freelancer\\TP_Freelancer\\obj\\",
+      "outputPath": "D:\\laragon\\www\\CDA\\FOAD-ASP\\FOAD-ASP\\FOAD-ASP\\ASP\\TP_Freelancer\\TP_Freelancer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
